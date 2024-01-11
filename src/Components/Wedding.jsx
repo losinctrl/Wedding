@@ -163,7 +163,7 @@ const Wedding = () => {
         </div>
       </div>
       <div className="flex flex-col justify-center items-center mt-10  mb-10">
-        <div className="text-[2.5rem]">╰☆☆🇵‌🇦‌🇷‌🇮‌🇻‌🇦‌🇷‌☆☆╮</div>
+        <div className="text-[1.5rem]">╰☆☆🇵‌🇦‌🇷‌🇮‌🇻‌🇦‌🇷‌☆☆╮</div>
         <p className="text-start mt-2 text-[18px] p-6 text-gray-500 font-medium">
           Ladki Wale :<br />
           D/o - Anshu Srivastava and Niraj Kumar Srivastava
